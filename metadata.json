@@ -1,0 +1,7 @@
+{
+  "name": "Voice Assistant",
+  "description": "A simple real-time conversational bot using Gemini Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
